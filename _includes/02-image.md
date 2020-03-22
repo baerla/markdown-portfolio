@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![KulmBecher](https://der-kulmbecher.de/wp-content/uploads/Kube2-1-681x1024.png)
